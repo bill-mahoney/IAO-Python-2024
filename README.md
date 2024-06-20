@@ -40,12 +40,18 @@ This repository contains the materials for the IAO Python 2024 class. In this cl
 
 Click the Binder link below to open the Jupyter Notebook in a live environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourUsername/IAO_Python_2024/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bill-mahoney/IAO_Python_2024/HEAD)
 
 ### Contents
 
-- `IAO_Python_2024.ipynb`: The main notebook for the class.
-- `requirements.txt` or `environment.yml`: List of dependencies required to run the notebook.
+- `Introduction.ipynb`: Introduction to the class.
+- `Setup_and_Environment.ipynb`: Setting up the environment and running a simple Python script.
+- `Basic_Syntax_and_Operations.ipynb`: Basic syntax and operations in Python.
+- `Control_Structures.ipynb`: Control structures including conditional statements and loops.
+- `Basic_Data_Structures.ipynb`: Basic data structures such as lists and dictionaries.
+- `Functions.ipynb`: Defining and calling functions.
+- `Q&A_and_Summary.ipynb`: Recap and additional resources.
+- `requirements.txt` or `environment.yml`: List of dependencies required to run the notebooks.
 
 ### Prerequisites
 

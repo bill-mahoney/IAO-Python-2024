@@ -1,6 +1,6 @@
 # IAO Python 2024 Class
 
-This repository contains the materials for the IAO Python 2024 class. In this class, we will cover the basics of Python programming for first-time programmers.
+This repository contains the materials for the IAO Intro to Programming Class - 2024. In this class, we will cover the basics of programming for first-time programmers.
 
 ## Course Outline
 
